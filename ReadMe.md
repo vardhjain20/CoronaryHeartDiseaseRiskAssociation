@@ -1,4 +1,4 @@
-﻿**LHS 610 FINAL PROJECT** 
+﻿**LHS 610 (Exploratory Data Analysis) FINAL PROJECT** 
 
 **Coronary Heart Disease Risk Correlation**
 
