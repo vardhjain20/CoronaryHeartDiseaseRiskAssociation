@@ -1,6 +1,6 @@
 ﻿**LHS 610 FINAL PROJECT** 
 
-** Coronary Heart Disease Risk Correlation **
+**Coronary Heart Disease Risk Correlation**
 
 Select a health-related problem (broadly defined) and a dataset and to apply your knowledge in the form of a scientific paper. To search for datasets, you may consider Google’s Dataset Search: [https://datasetsearch.research.google.comLinks to an external site.](https://datasetsearch.research.google.com/). You \*may not\* use a dataset that we used in class already.
 
